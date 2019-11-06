@@ -1,0 +1,22 @@
+{
+  "name": "inboxcontract",
+  "version": "1.0.0",
+  "description": "Solidity Contract",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solidity",
+    "blockchain",
+    "node"
+  ],
+  "author": "Arthur",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.7.0",
+    "mocha": "^6.2.2",
+    "solc": "^0.4.25",
+    "web3": "^1.0.0-beta.26"
+  }
+}
